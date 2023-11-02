@@ -9,12 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ffmpeg/ffmpeg": "^0.12.4",
+    "@ffmpeg/util": "^0.12.0",
     "@types/node": "20.5.0",
     "@types/react": "18.2.20",
     "@types/react-dom": "18.2.7",
     "autoprefixer": "10.4.15",
+    "dashjs": "^4.7.1",
     "eslint": "8.47.0",
     "eslint-config-next": "13.4.16",
+    "mp4box": "^0.5.2",
     "next": "13.4.16",
     "postcss": "8.4.27",
     "react": "18.2.0",
