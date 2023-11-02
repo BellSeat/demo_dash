@@ -1,6 +1,6 @@
 
 'use client'
-import dashjs from "../../dash.js";
+import dashjs from "dashjs";
 import React, { useEffect } from "react";
 
 
